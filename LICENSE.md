@@ -1,4 +1,4 @@
-# 
+# Enhance OBS Studio for macOS with OBS Studio for macOS updated Overlay: sound-design & auto-color-grading, the #1 overlay. Includes sound-design and auto-color-grading for a
 
 
 
